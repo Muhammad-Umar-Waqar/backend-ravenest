@@ -1,0 +1,6 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS ravenest_db;
+USE postgres;
+
+-- CREATE DATABASE
+CREATE DATABASE ravenest_db;
